@@ -43,10 +43,10 @@
 
 ## 🚀 Projects
 
-**| 프로젝트 | 설명 | 기술 스택 |**
-|---|---|---|---|
-| **QA-Llama3**(https://github.com/loder-coder/QA_special_Llama3_8b) | 경량 LLM 기반 한국어 QA 시스템. RAG + 의도 분류 + Redis 캐싱으로 정확도 25%↑, 응답속도 40%↑, 환각률 70%↓ | Llama3 8B · FastAPI · Faiss · Redis · Docker |
-| **Project Yeoul**(https://github.com/Cathesth/TRPG) | AI 멀티 에이전트 TRPG 내러티브 생성 웹 서비스. Builder / Narrator / NPC 에이전트 역할 분리, 실서비스 배포 완료 | LangGraph · OpenAI · Qdrant · PostgreSQL · Railway |
+| 프로젝트 | 설명 | 기술 스택 |
+|---|---|---|
+| [**QA-Llama3**](https://github.com/loder-coder/QA_special_Llama3_8b) | 경량 LLM 기반 한국어 QA 시스템. RAG + 의도 분류 + Redis 캐싱으로 정확도 상승, 응답속도 상승, 환각률 저하 | Llama3 8B · FastAPI · Faiss · Redis · Docker |
+| [**Project Yeoul**](https://github.com/Cathesth/TRPG) | AI 멀티 에이전트 TRPG 내러티브 생성 웹 서비스. Builder / Narrator / NPC 에이전트 역할 분리, 실서비스 배포 | LangGraph · OpenAI · Qdrant · PostgreSQL · Railway |
 | **Project H.I.** | 이력서 자동 정리 및 기업 적합도 평가 시스템. PDF/DOCX 구조화 → SBERT 유사도 스코어링 → 시트 자동 출력 | LLM API · SBERT · Kafka · Hadoop · Docker | - |
 | **Project GoldenWing** | ESG 기반 환경 비용 계산 시스템. CatBoost 회귀분석 + GMM 군집 분석으로 맞춤형 ESG 로드맵 제안 | CatBoost · GMM Clustering · Pandas | - |
 
